@@ -1,1 +1,1 @@
-# Programoz-s-ra
+# Programozás óra repository-ja
